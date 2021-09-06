@@ -46,7 +46,6 @@ public class drawBoard implements Runnable{
 						else {
 							ImageIcon icon_num = new ImageIcon("../resources/numbers/"+ Character.toString(chars[i][j]) + ".png");
 							JLabel label_num = new JLabel(icon_num);
-							label_num.setForeground(Color.RED);
 							panel.add(label_num);
 						}
 					}
