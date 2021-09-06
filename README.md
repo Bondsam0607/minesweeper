@@ -12,3 +12,22 @@
 4. use numbers to represent selected blocks
 	1. use 0 to represent the selected blocks (without number)
 	2. use other numbers to represent the selected blocks (with number)
+
+## Example
+
+```
+* * * * * * * * * *
+* * * * * 1 1 * * *
+* * * * 4 0 2 * * *
+* * * * 1 2 1 * * *
+* * * X * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * F * *
+* * * * * * * * * *
+* * * * * * * * * *
+```
+
+A `board.txt` as above will generate a board as below.
+
+![board](/Users/bondsam/Documents/TA_works/github/minesweeper/example.png)
