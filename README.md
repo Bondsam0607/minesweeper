@@ -30,4 +30,4 @@
 
 A `board.txt` as above will generate a board as below.
 
-![board](/Users/bondsam/Documents/TA_works/github/minesweeper/example.png)
+![board](example.png)
